@@ -1,0 +1,17 @@
+{
+  "name": "SDC_Aqua_Dosing_Pomp",
+  "about": " ",
+  "version": "0.88",
+  "notes": " ",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/wexcem43/SDC_Aqua_Dosing_Pomp/main/bin/po.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
