@@ -1,14 +1,14 @@
 {
-  "name": "SDC_Aqua_Dosing_Pomp",
+  "name": "SDC_Reading_Monitor",
   "about": " ",
-  "version": "0.88",
+  "version": "1.0",
   "notes": " ",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/wexcem43/SDC_Aqua_Dosing_Pomp/main/bin/po.bin",
+          "path": "https://raw.githubusercontent.com/wexcem43/SDC_Reading_Monitor/main/bin/po.bin",
           "offset": 0
         }
       ]
